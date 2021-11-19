@@ -1,4 +1,7 @@
 {
     "cSpell.language": "en,ru",
-    "discord.enabled": true
+    "discord.enabled": true,
+    "cSpell.words": [
+        "mangalib"
+    ]
 }
