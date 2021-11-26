@@ -1,2 +1,4 @@
-manga/
-# Был случайно добавлен
+manga
+manga/*
+./manga
+./manga/*
