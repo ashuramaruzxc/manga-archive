@@ -6,6 +6,7 @@
 cd -- "$(dirname "$0")" || exit
 
 # TODO: Normal case arguments
+# TODO: Flags is prob better
 # Which helps to push commits by template
 
 # It's already quiete useful tho but 
